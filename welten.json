@@ -14097,6 +14097,24 @@
      ],
      "stimmen": 5910,
      "abschnitt": "Animations-Klassiker und neue Disney-Animation"
+    },
+    {
+     "tmdb": "109329",
+     "typ": "film",
+     "name": "Die drei kleinen Wölfe",
+     "jahr": 1936,
+     "genres": [
+      16,
+      10751,
+      35
+     ],
+     "reihe": null,
+     "reihe_name": null,
+     "firmen": [
+      3166
+     ],
+     "stimmen": 100,
+     "abschnitt": "Animations-Klassiker und neue Disney-Animation"
     }
    ],
    "ausschluss": [
@@ -14921,6 +14939,11 @@
      "tmdb": "579524",
      "typ": "film",
      "name": "Santa's Little Helpers"
+    },
+    {
+     "tmdb": "1820848",
+     "typ": "film",
+     "name": "The Super Mario Odyssey Movie"
     }
    ],
    "ausschluss": []
