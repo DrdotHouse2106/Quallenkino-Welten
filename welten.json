@@ -7756,6 +7756,11 @@
      "tmdb": "979163",
      "typ": "film",
      "name": "Jenseits der Unendlichkeit: Buzz und die Entstehung von Lightyear"
+    },
+    {
+     "tmdb": "1680650",
+     "typ": "film",
+     "name": "Loving Dory"
     }
    ],
    "ausschluss": []
@@ -14651,6 +14656,16 @@
      "tmdb": "1110132",
      "typ": "film",
      "name": "Donkey"
+    },
+    {
+     "tmdb": "1298205",
+     "typ": "film",
+     "name": "Kung Fu Panda 5"
+    },
+    {
+     "tmdb": "1426936",
+     "typ": "film",
+     "name": "Nico Bravo"
     }
    ],
    "ausschluss": []
@@ -15449,6 +15464,11 @@
      "tmdb": "188541",
      "typ": "film",
      "name": "Giant God Warrior Appears in Tokyo"
+    },
+    {
+     "tmdb": "141897",
+     "typ": "film",
+     "name": "柳川堀割物語"
     }
    ],
    "ausschluss": [
