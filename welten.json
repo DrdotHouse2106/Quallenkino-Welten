@@ -3258,6 +3258,22 @@
      ],
      "stimmen": 11316,
      "abschnitt": "X-Men"
+    },
+    {
+     "tmdb": "343137",
+     "typ": "serie",
+     "name": "are u super cereal",
+     "jahr": 2014,
+     "genres": [],
+     "reihe": null,
+     "reihe_name": null,
+     "firmen": [
+      319921,
+      623,
+      420
+     ],
+     "stimmen": 0,
+     "abschnitt": "Marvel Cinematic Universe"
     }
    ],
    "ausschluss": [
@@ -7761,6 +7777,11 @@
      "tmdb": "1680650",
      "typ": "film",
      "name": "Loving Dory"
+    },
+    {
+     "tmdb": "483396",
+     "typ": "film",
+     "name": "Miss Fritters Rennsportschule"
     }
    ],
    "ausschluss": []
@@ -14119,6 +14140,40 @@
       3166
      ],
      "stimmen": 100,
+     "abschnitt": "Animations-Klassiker und neue Disney-Animation"
+    },
+    {
+     "tmdb": "22777",
+     "typ": "film",
+     "name": "Die Millionen-Dollar-Ente",
+     "jahr": 1971,
+     "genres": [
+      35,
+      10751
+     ],
+     "reihe": null,
+     "reihe_name": null,
+     "firmen": [
+      3166
+     ],
+     "stimmen": 100,
+     "abschnitt": "Familienfilme und Sonstiges"
+    },
+    {
+     "tmdb": "444341",
+     "typ": "film",
+     "name": "Angeln gehen",
+     "jahr": 2017,
+     "genres": [
+      16,
+      35
+     ],
+     "reihe": null,
+     "reihe_name": null,
+     "firmen": [
+      6125
+     ],
+     "stimmen": 50,
      "abschnitt": "Animations-Klassiker und neue Disney-Animation"
     }
    ],
