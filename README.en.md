@@ -1,10 +1,10 @@
-# Jellyfin-Welten
+# Quallenkino-Welten
 
 [![Buy me a coffee](https://img.shields.io/badge/☕_Buy_me_a_coffee-PayPal-0070ba?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DrdotHouse)
 
-Disney+-like "worlds" (Marvel, Star Wars, DC, Pixar, Disney, DreamWorks, Illumination, Wizarding World, Middle-earth, James Bond, Jurassic Park, Studio Ghibli) as a list for the Jellyfin plugin [Quallenkinoplugin für Jellyfin](https://github.com/DrdotHouse2106/Lokal-Vorschlag-Jellyfin) (formerly "Local Recommendations"). The plugin loads the list daily; the library is not changed.
+Disney+-like "worlds" (Marvel, Star Wars, DC, Pixar, Disney, DreamWorks, Illumination, Wizarding World, Middle-earth, James Bond, Jurassic Park, Studio Ghibli) as a list for the Jellyfin plugin [Quallenkinoplugin für Jellyfin](https://github.com/DrdotHouse2106/Quallenkino-Empfehlungen) (formerly "Local Recommendations"). The plugin loads the list daily; the library is not changed.
 
-Plugin URL (default since LocalRecs 12.12.0, setting "Welten-Liste"): `https://raw.githubusercontent.com/DrdotHouse2106/Jellyfin-Welten/main/welten.json`
+Plugin URL (default since LocalRecs 12.12.0, setting "Welten-Liste"): `https://raw.githubusercontent.com/DrdotHouse2106/Quallenkino-Welten/main/welten.json`
 
 - `regeln.json` – rules, TMDB sources, **manually added titles and exclusions** (edit this file).
   Besides IDs, `tmdb.suche` (`{ "titel", "jahr", "typ" }`, year ±1), `tmdb.sammlungen_suche` (English collection names) and `tmdb.firmen_suche` (`{ "name", "min_stimmen" }`) are resolved via TMDB search in the workflow; results and misses are logged. Placeholder titles (`Untitled …`) are never taken and are removed from existing lists.
@@ -33,5 +33,5 @@ phone), rate and manage them, with price history, editions and PAL/USK details. 
 
 ## Profile images (icons/)
 
-[`icons/icons.json`](icons/icons.json) is the default catalog for profile images in LocalRecs 12.22.0+ (`https://raw.githubusercontent.com/DrdotHouse2106/Jellyfin-Welten/main/icons/icons.json`): a fixed color palette (`colors`) and categories of figures (`id`, `name`, `file` relative to the catalog or `url`, optional `fit` `contain`/`cover`). About 85 figures from [OpenMoji](https://openmoji.org/) plus 19 original drawings by DrdotHouse2106 (superheroes, fairy tales, space adventures – they only evoke well-known worlds, not official characters; source `icons/quellen/zeichnen.py`), all CC BY-SA 4.0 – see [`icons/LIZENZ.md`](icons/LIZENZ.md). Please only add images that may be redistributed freely.
+[`icons/icons.json`](icons/icons.json) is the default catalog for profile images in LocalRecs 12.22.0+ (`https://raw.githubusercontent.com/DrdotHouse2106/Quallenkino-Welten/main/icons/icons.json`): a fixed color palette (`colors`) and categories of figures (`id`, `name`, `file` relative to the catalog or `url`, optional `fit` `contain`/`cover`). About 85 figures from [OpenMoji](https://openmoji.org/) plus 19 original drawings by DrdotHouse2106 (superheroes, fairy tales, space adventures – they only evoke well-known worlds, not official characters; source `icons/quellen/zeichnen.py`), all CC BY-SA 4.0 – see [`icons/LIZENZ.md`](icons/LIZENZ.md). Please only add images that may be redistributed freely.
 
